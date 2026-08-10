@@ -83,5 +83,8 @@ define('PUBLIC_DIR', $public_folder);
  * Setup done? Then Hurray!
  * ------------------------------------------------------
  */
+echo  "<h1>Hello Lavalust by Leyann!<h1>";
+
+
 require_once SYSTEM_DIR . 'kernel/LavaLust.php';
 ?>
